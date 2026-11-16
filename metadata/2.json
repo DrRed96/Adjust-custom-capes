@@ -1,0 +1,21 @@
+{
+    "id": 2,
+    "type": 3,
+    "animated": {
+        "frames": [
+            "lightning/1.png",
+            "lightning/2.png",
+            "lightning/3.png",
+            "lightning/4.png",
+            "lightning/5.png",
+            "lightning/6.png",
+            "lightning/7.png",
+            "lightning/8.png",
+            "lightning/9.png",
+            "lightning/10.png",
+            "lightning/11.png"
+        ],
+        "delay": 150,
+        "colored": false
+    }
+}
