@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "type": 1,
+    "simple": {
+        "image": "graalvm.png",
+        "colored": false
+    }
+}
